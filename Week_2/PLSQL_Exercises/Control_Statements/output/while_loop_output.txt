@@ -1,0 +1,43 @@
+
+The number is positive.
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.007
+
+Thursday
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.008
+
+Number: 1
+Number: 2
+Number: 3
+Number: 4
+Number: 5
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.005
+
+Thursday
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.008
+
+Number: 1
+Number: 2
+Number: 3
+Number: 4
+Number: 5
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.005
