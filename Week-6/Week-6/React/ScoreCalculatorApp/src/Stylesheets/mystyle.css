@@ -1,0 +1,16 @@
+
+.container {
+  padding: 20px;
+  background-color: #f0f8ff;
+  border-radius: 10px;
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: #333;
+}
+p {
+  font-size: 16px;
+}

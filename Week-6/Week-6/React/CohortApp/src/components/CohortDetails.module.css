@@ -1,0 +1,19 @@
+.box {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+}
+dl {
+  margin: 0;
+  padding: 0;
+}
+dt {
+  font-weight: 500;
+  margin-top: 10px;
+}
+dd {
+  margin: 0 0 10px 0;
+}
